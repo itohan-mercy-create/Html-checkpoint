@@ -1,0 +1,29 @@
+li{
+    display: inline;
+}
+
+body{
+    font-family: "Roboto"; font-size: 12px;
+    text-align: left;
+    color: blue;
+}
+
+h1{
+    color:red
+}
+
+body{
+    background-color:wheat
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: large;
+}
+
+.header{
+    color: black;
+    background-color: brown;
+    padding: 20px;
+}
